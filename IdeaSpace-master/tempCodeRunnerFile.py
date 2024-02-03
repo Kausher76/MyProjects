@@ -1,0 +1,1 @@
+"user" in session and session['user']==params['username']
